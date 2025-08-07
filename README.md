@@ -61,6 +61,7 @@ Team members:
 - Luis Ángel Lozano Reyes
 - Gregorio Salazar Solís
 
-## 📚 License
-This project is for academic and educational purposes.
+## 📄 License
+
+MIT License – see [`LICENSE`](./LICENSE)
 
